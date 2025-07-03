@@ -1,0 +1,52 @@
+*{
+    background-color: rgb(255, 243, 224);
+
+}
+.Box{
+    background-color: rgba(163, 143, 102, 0.975);
+    padding: 200px;
+    margin: 70px 100px 100px 500px;
+    border-radius: 24px;
+    position: absolute;
+    width: 100px;
+    height: 150px;
+    
+}
+.in img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 50px;
+    left: 150px;
+}
+.in h1{
+    background-color: rgba(167, 147, 106, 0.974);
+    position: absolute;
+    top: 250px;
+    font-size: 50px;
+    left: 100px;
+    color: rgb(255, 235, 200);
+}
+.in p{
+    background-color: rgba(167, 147, 106, 0.974);
+    color: rgba(243, 220, 177, 0.896);
+    position: absolute;
+    top: 310px;
+    left: 62px;
+    font-size: 35px;
+}
+.in button{
+    background-color: rgb(237, 237, 195);
+    color: rgb(189, 157, 113);
+    font-size: 40px;
+    font-family: ;
+    position: absolute;
+    top: 415px;
+    left: 70px;
+    width: 360px;
+    height: 75px;
+    border-radius: 20px;
+    border: none;
+    font-weight: bold;
+}
